@@ -1,5 +1,5 @@
 # onepage-training
-This site was created in my technical school. In this project iI wanted to create one page site with RWD. 
+This site was created in my technical school. In this project I wanted to create one page site with RWD. 
 
 ## Tech Stack:
 - HTML
