@@ -7,4 +7,4 @@ This site was created in my technical school. In this project iI wanted to creat
 - JavaScript
 - ScrollReveal
 
-##Live: https://kj44389.github.io/onepage-training/
+## Live: https://kj44389.github.io/onepage-training/
